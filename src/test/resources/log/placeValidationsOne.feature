@@ -1,4 +1,3 @@
-MANOJKUMAR
 Feature: Validating Place API's
 
   @AddPlace
